@@ -1,0 +1,7 @@
+C:\Users\SEBAS\source\repos\Ejercicio_07\Ejercicio_07\bin\Debug\Ejercicio_07.exe.config
+C:\Users\SEBAS\source\repos\Ejercicio_07\Ejercicio_07\bin\Debug\Ejercicio_07.exe
+C:\Users\SEBAS\source\repos\Ejercicio_07\Ejercicio_07\bin\Debug\Ejercicio_07.pdb
+C:\Users\SEBAS\source\repos\Ejercicio_07\Ejercicio_07\obj\Debug\Ejercicio_07.csproj.AssemblyReference.cache
+C:\Users\SEBAS\source\repos\Ejercicio_07\Ejercicio_07\obj\Debug\Ejercicio_07.csproj.CoreCompileInputs.cache
+C:\Users\SEBAS\source\repos\Ejercicio_07\Ejercicio_07\obj\Debug\Ejercicio_07.exe
+C:\Users\SEBAS\source\repos\Ejercicio_07\Ejercicio_07\obj\Debug\Ejercicio_07.pdb
