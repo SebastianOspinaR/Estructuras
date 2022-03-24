@@ -10,6 +10,13 @@ namespace Ejercicio_11
     {
         static void Main(string[] args)
         {
+            string[,] ciudades = new string[5, 4];
+            string[,] Pais = new string[5, 4];
+
+            for (int i = 0; i < Pais; i++)
+            {
+                Console.Write($"Ingrese el pais {i + 1}");
+            }
         }
     }
 }

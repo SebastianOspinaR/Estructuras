@@ -28,6 +28,15 @@ namespace Ejercicio_08
             }
             media = (double)numeroPersonas / alturaPersonas[f];
             Console.WriteLine($"la media de altura es {media}");
+
+            if (alturaPersonas<media)
+            {
+                Console.WriteLine("la altura esta por debajo de la media");
+            }
+            else if (alturaPersonas > media)
+            {
+                Console.WriteLine("la altura esta por encima de la media");
+            }
         }
        
         static void Main(string[] args)
