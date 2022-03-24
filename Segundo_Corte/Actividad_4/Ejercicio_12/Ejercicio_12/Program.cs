@@ -33,8 +33,9 @@ namespace Ejercicio_12
 			meses[12] = dias[1];
 
 			int mes = 0;
+			Console.WriteLine("escriba el evento que ocurrio");
 			meses[mes] = Convert.ToInt32(Console.ReadLine());
-			Console.WriteLine("El mes número {0} tiene {1} dias", meses[mes]);
+			Console.WriteLine("El mes número {0} tiene {1} dias y en la hora {2} ocurrio:", meses[mes],horas);
 		}
     }
 }
