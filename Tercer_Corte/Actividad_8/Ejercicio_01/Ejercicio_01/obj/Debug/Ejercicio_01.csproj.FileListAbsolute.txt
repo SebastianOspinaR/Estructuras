@@ -1,0 +1,7 @@
+C:\Users\SEBAS\Documents\Tarea_Estructura\Estructuras\Tercer_Corte\Actividad_8\Ejercicio_01\Ejercicio_01\bin\Debug\Ejercicio_01.exe.config
+C:\Users\SEBAS\Documents\Tarea_Estructura\Estructuras\Tercer_Corte\Actividad_8\Ejercicio_01\Ejercicio_01\bin\Debug\Ejercicio_01.exe
+C:\Users\SEBAS\Documents\Tarea_Estructura\Estructuras\Tercer_Corte\Actividad_8\Ejercicio_01\Ejercicio_01\bin\Debug\Ejercicio_01.pdb
+C:\Users\SEBAS\Documents\Tarea_Estructura\Estructuras\Tercer_Corte\Actividad_8\Ejercicio_01\Ejercicio_01\obj\Debug\Ejercicio_01.csproj.AssemblyReference.cache
+C:\Users\SEBAS\Documents\Tarea_Estructura\Estructuras\Tercer_Corte\Actividad_8\Ejercicio_01\Ejercicio_01\obj\Debug\Ejercicio_01.csproj.CoreCompileInputs.cache
+C:\Users\SEBAS\Documents\Tarea_Estructura\Estructuras\Tercer_Corte\Actividad_8\Ejercicio_01\Ejercicio_01\obj\Debug\Ejercicio_01.exe
+C:\Users\SEBAS\Documents\Tarea_Estructura\Estructuras\Tercer_Corte\Actividad_8\Ejercicio_01\Ejercicio_01\obj\Debug\Ejercicio_01.pdb
